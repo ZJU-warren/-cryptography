@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Problem 1. 网络聊天程序的设计与实现 Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+h:\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  h:\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  Problem 1. 网络聊天程序的设计与实现 Client.cpp
+  Miller Rabin.cpp
+  LINT.cpp
+  CClientDlg.cpp
+  正在生成代码...
+  Problem 1. 网络聊天程序的设计与实现 Client.vcxproj -> E:\密码学课程设计\密码学课程设计\Debug\Problem 6. Schnorr身份识别协议的实现 Client.exe
+  Problem 1. 网络聊天程序的设计与实现 Client.vcxproj -> E:\密码学课程设计\密码学课程设计\Debug\Problem 6. Schnorr身份识别协议的实现 Client.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+h:\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  h:\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  Problem 2. MD5的实现Dlg.cpp
+  Problem 2. MD5的实现.cpp
+  MD5.cpp
+  正在生成代码...
+  Problem 2. MD5的实现.vcxproj -> E:\密码学课程设计\密码学课程设计\Debug\Problem 2. MD5的实现.exe
+  Problem 2. MD5的实现.vcxproj -> E:\密码学课程设计\密码学课程设计\Debug\Problem 2. MD5的实现.pdb (Partial PDB)

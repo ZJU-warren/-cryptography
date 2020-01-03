@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (密码学课程设计（命令界面）.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Miller Rabin.cpp
+  maincpp.cpp
+  LINT.cpp
+  正在生成代码...
+  密码学课程设计（命令界面）.vcxproj -> E:\密码学课程设计\密码学课程设计\Debug\Problem 1. 大整数运算包的设计与实现.exe
+  密码学课程设计（命令界面）.vcxproj -> E:\密码学课程设计\密码学课程设计\Debug\Problem 1. 大整数运算包的设计与实现.pdb (Full PDB)
